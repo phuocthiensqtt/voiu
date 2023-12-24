@@ -1,0 +1,14 @@
+.imglove {
+  width: 100%;
+  position: relative;
+}
+
+.btn-danger {
+  position: relative;
+  bottom: 100px;
+  height: auto;
+  width: auto;
+  font-size: 70%;
+  left: 50%;
+  transform: translateX(-50%);
+}
